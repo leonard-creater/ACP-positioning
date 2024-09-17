@@ -1,0 +1,37 @@
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="container border border-warning text-danger">
+<h2>Cycling</h2>
+Cycling is when a bicycle is used either forsport or as a source of entertainment.
+ My favorite player in cycling race is <small>Sean Kelly</small>.
+
+</div>
+<div class="container border border-success text-warning">
+<h2>Football</h2>
+Football  is  a sport played by a two teams who kick a ball into the opponets goal post.
+My favorite player in football is Ronaldo. Ronaldo is also known as the <abbr title="Greatest Of All Times">G.O.A.T</abbr>
+
+</div>
+<div class="container border border-primary text-success">
+<h2>Running</h2>
+It is a sport where people of 5 to 7 sprint to the end of the race.
+My favorite player in runnig race is Bolt.
+</div>
+<div class="container border border-danger text-primary">
+<h2>Basketball</h2>
+It is a sport played by 6 people who bounce a ball ,then sht in a hoop to
+score a goal.
+My favorite player in bashetball is Lebron James.
+</div>
+
+    
+</body>
+
+
+</head>
+
+</html>
